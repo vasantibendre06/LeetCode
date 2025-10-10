@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vasantibendre06/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/vasantibendre06/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vasantibendre06/LeetCode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/vasantibendre06/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vasantibendre06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasantibendre06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/vasantibendre06/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -115,8 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vasantibendre06/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vasantibendre06/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/vasantibendre06/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/vasantibendre06/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vasantibendre06/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vasantibendre06/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
