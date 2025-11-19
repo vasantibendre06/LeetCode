@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/vasantibendre06/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/vasantibendre06/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/vasantibendre06/LeetCode/tree/master/0812-rotate-string) |
 ## String Matching
